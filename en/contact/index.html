@@ -7,8 +7,8 @@
   
   <meta name="generator" content="Hugo 0.56.3" />
   
-  <link rel="stylesheet" href="/sass/main.min.eee75498cf8345bce45cc41dcdde77f050ef33bb0cd2f4b2eaed3986eaa9e273.css" media="screen"
-    integrity="sha256-7udUmM&#43;DRbzkXMQdzd538FDvM7sM0vSy6u05huqp4nM=" />
+  <link rel="stylesheet" href="/sass/main.min.692e886035ecd15e6fc520c2f998415a7944cc92948e0befeed93ea00d5f6b96.css" media="screen"
+    integrity="sha256-aS6IYDXs0V5vxSDC&#43;ZhBWnlEzJKUjgvv7tk&#43;oA1fa5Y=" />
 </head>
   <body>
     <header>
@@ -136,6 +136,42 @@
     </div>
   </form>
 </div>
+
+
+
+
+<section class="c-message c-message--spam" data-type="spam">
+    Error: Your message is sadly been marked as SPAM and not been forwarded. Please try again.
+</section>
+
+
+
+<section class="c-message c-message--success" data-type="success">
+    Thank you for your message!
+</section>
+
+
+
+<script>
+    'use strict';
+    const getQueryVariable = (variable) => {
+        const query = window.location.search.substring(1);
+        const vars = query.split('&');
+        for (let i = 0; i < vars.length; i++) {
+            const pair = vars[i].split('=');
+            if (pair[0] == variable) {
+                return pair[1];
+            }
+        }
+        return false;
+    };
+
+    const msgType = getQueryVariable('msg');
+    const msgElem = document.querySelector('section[data-type="' + msgType + '"]');
+    if (msgElem) {
+        msgElem.classList.add('visible');
+    }
+</script>
 
 
 <h2 id="the-board">The Board</h2>
