@@ -1,54 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Startseite on Gilde der Nacht</title>
-    <link>https://gildedernacht.ch/</link>
-    <description>Recent content in Startseite on Gilde der Nacht</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gildedernacht.ch/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Anlässe</title>
-      <link>https://gildedernacht.ch/events/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gildedernacht.ch/events/</guid>
-      <description>Nach unserem aktuellen Rhythmus findet zweimal im Monat ein öffentliches Spieltreffen statt. Meist versuchen wir uns an den ersten und dritten Samstag zu halten, die genauen Termine kannst du auf der Startseite finden.
- Unsere Spieltreffen sind öffentlich und Jede und Jeder ist willkommen. Meist findet kein fixes Programm statt und du kannst nach belieben kommen und gehen.  Dennoch versuchen wir unsere Treffen mit spannenden Aktivitäten aufzulockern und so die Gelegenheit zu bieten, neue Sachen zu entdecken.</description>
-    </item>
-    
-    <item>
-      <title>Verein</title>
-      <link>https://gildedernacht.ch/association/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gildedernacht.ch/association/</guid>
-      <description>Die Gilde der Nacht fördert das Spielhobby in und um Luzern. Wir organisieren das ganze Jahr jede Menge Events, an denen du neue Freundschaften schliesst und viele tolle Spiele kennenlernst. Komm doch vorbei und sag Hallo!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startseite on Gilde der Nacht</title><link>https://gildedernacht.ch/</link><description>Recent content in Startseite on Gilde der Nacht</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gildedernacht.ch/index.xml" rel="self" type="application/rss+xml"/><item><title>Anlässe</title><link>https://gildedernacht.ch/events/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://gildedernacht.ch/events/</guid><description>Nach unserem aktuellen Rhythmus findet zweimal im Monat ein öffentliches Spieltreffen statt. Meist versuchen wir uns an den ersten und dritten Samstag zu halten, die genauen Termine kannst du auf der Startseite finden.
+Unsere Spieltreffen sind öffentlich und Jede und Jeder ist willkommen. Meist findet kein fixes Programm statt und du kannst nach belieben kommen und gehen. Dennoch versuchen wir unsere Treffen mit spannenden Aktivitäten aufzulockern und so die Gelegenheit zu bieten, neue Sachen zu entdecken.</description></item><item><title>Verein</title><link>https://gildedernacht.ch/association/</link><pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate><guid>https://gildedernacht.ch/association/</guid><description>Die Gilde der Nacht fördert das Spielhobby in und um Luzern. Wir organisieren das ganze Jahr jede Menge Events, an denen du neue Freundschaften schliesst und viele tolle Spiele kennenlernst. Komm doch vorbei und sag Hallo!
 werde Mitglied Als Mitglied des Spielvereins Gilde der Nacht bezahlst du keinen Eventbeitrag an unseren regulären Spieltreffen.
-Der Mitgliederbeitrag für das Jahr 2020 liegt bei 50 Franken. Für Jugendliche und Kinder unter 16 Jahren ist eine Mitgliedschaft sogar kostenlos.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://gildedernacht.ch/contact/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gildedernacht.ch/contact/</guid>
-      <description>Schreib uns was nettes  Name E-Mail Nachricht  Leer lassen document.querySelector(&#39;.c-form--captcha&#39;).style.display = &#39;none&#39;;    Fehler: Deine Nachricht wurde leider als SPAM markiert und nicht weitergeleitet. Versuche es bitte erneut.  Vielen Dank für deine Nachricht!   &#39;use strict&#39;; const getQueryVariable = (variable) = { const query = window.location.search.substring(1); const vars = query.split(&#39;&amp;&#39;); for (let i = 0; i Der Vorstand Gildenmeister Oliver Mein Herz schlägt für Strategie- und Partyspiele sondergleichen.</description>
-    </item>
-    
-    <item>
-      <title>Newsletter</title>
-      <link>https://gildedernacht.ch/newsletter/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://gildedernacht.ch/newsletter/</guid>
-      <description> Vorname *   Nachname *   E-Mail Adresse *  Interessen Luzerner Spieltage Brettspiele Luzerner Rollenspieltage Rollenspiele Luzerner Tabletoptag Tabletop  Bitte wähle mindestens ein Interesse aus.
-      (function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = &#39;EMAIL&#39;; ftypes[0] = &#39;email&#39;; fnames[1] = &#39;FNAME&#39;; ftypes[1] = &#39;text&#39;; fnames[2] = &#39;LNAME&#39;; ftypes[2] = &#39;text&#39;; }(jQuery)); var $mcj = jQuery.noConflict(true);   </description>
-    </item>
-    
-  </channel>
-</rss>
+Der Mitgliederbeitrag für das Jahr 2020 liegt bei 50 Franken. Für Jugendliche und Kinder unter 16 Jahren ist eine Mitgliedschaft sogar kostenlos.</description></item><item><title>Kontakt</title><link>https://gildedernacht.ch/contact/</link><pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate><guid>https://gildedernacht.ch/contact/</guid><description>Schreib uns was nettes Name E-Mail Nachricht Leer lassen document.querySelector('.c-form--captcha').style.display = 'none'; Fehler: Deine Nachricht wurde leider als SPAM markiert und nicht weitergeleitet. Versuche es bitte erneut. Vielen Dank für deine Nachricht! 'use strict'; const getQueryVariable = (variable) = { const query = window.location.search.substring(1); const vars = query.split('&amp;'); for (let i = 0; i Der Vorstand Gildenmeister Oliver Mein Herz schlägt für Strategie- und Partyspiele sondergleichen.</description></item><item><title>Newsletter</title><link>https://gildedernacht.ch/newsletter/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://gildedernacht.ch/newsletter/</guid><description> Vorname * Nachname * E-Mail Adresse * Interessen Luzerner Spieltage Brettspiele Luzerner Rollenspieltage Rollenspiele Luzerner Tabletoptag Tabletop Bitte wähle mindestens ein Interesse aus.
+(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</description></item></channel></rss>
