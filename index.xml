@@ -5,7 +5,6 @@ Der Mitgliederbeitrag für das Jahr 2020 liegt bei 50 Franken. Für Jugendliche 
 (function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</description></item><item><title>Rollenspiel-Stammtisch</title><link>https://gildedernacht.ch/stammtisch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gildedernacht.ch/stammtisch/</guid><description>Liebe Rollenspielgemeinschaft
 Die Gilde der Nacht lädt zum Rollenspiel-Stammtisch ein.
 Dies ist ein kleines, gemütliches Event, das bei Interesse eurerseits regelmässig an wechselnden Lokationen stattfinden wird - damit nicht immer nur die Luzerner einen kurzen Anreiseweg haben ;)
-Aufgrund der aktuellen Situation finden die nächsten Stammtische online statt!
-Der nächste Stammtisch steht an:
-Dienstag, 29. Dezember 2020 ab 19.00 Uhr im Discord der Gilde der Nacht.
+Den Termin des nächsten Stammtisch findest du auf unserer Startseite.
+Durchgeführt werden die Stammtische aufgrund der aktuellen Situation online im Discord der Gilde der Nacht.
 Wenn du Lust hast, dich mit Gleichgesinnten über unser liebstes Hobby auszutauschen, schau doch mal rein.</description></item></channel></rss>
