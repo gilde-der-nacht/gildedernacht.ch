@@ -182,13 +182,10 @@
             
             
 
-            
-<h1>3D Web</h1>
-
+            <h1 id="3d-web" tabindex="-1"><a class="header-anchor" href="#3d-web">3D Web</a></h1>
 <script src="https://cdn.babylonjs.com/babylon.js"></script>
 <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
 <script type="module">
-
 async function createSceneAsync(engine) {
 	const scene = new BABYLON.Scene(engine);
 
@@ -278,9 +275,7 @@ async function main() {
 }
 
 window.addEventListener('load', main);
-
 </script>
-
 <style>
 #canvas {
 	border: 1px solid #000;
@@ -289,14 +284,12 @@ window.addEventListener('load', main);
 	touch-action: none;
 }
 </style>
-
+<p><canvas id="canvas" touch-action="none"></canvas></p>
 <ul>
 <li>Bibliothek: <a href="https://www.babylonjs.com/">BabylonJS</a></li>
-<li>Komplexität: ~5200 Faces, ~11'100 Triangles</li>
+<li>Komplexität: ~5200 Faces, ~11’100 Triangles</li></li>
 <li>Schatten: 2048 Pixel, <a href="https://developer.nvidia.com/gpugems/gpugems/part-ii-lighting-and-shadows/chapter-11-shadow-map-antialiasing">PCF</a></li>
 </ul>
-
-<canvas id="canvas" touch-action="none"></canvas>
 
         </main>
     </div>
