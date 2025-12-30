@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gilde der Nacht//DE
+BEGIN:VEVENT
+UID:5f54297b-ce2e-42d1-b1ca-dbb1c9b80a1a
+DTSTAMP:20251230T203146Z
+SUMMARY:Luzerner Spieltage 2026
+DESCRIPTION:Am Samstag\, 14. und Sonntag\, 15. März 2026 verwandeln wir den
+  Pfarreisaal St. Johannes im Würzenbach-Quartier in eine Oase für Spielerin
+ nen und Spieler.
+LOCATION:Würzenbachsaal\, St. Johannes\, Luzern
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260316
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef493e8-e7c2-4eda-b897-623e28c4421a
+DTSTAMP:20251230T112331Z
+SUMMARY:Luzerner Rollenspieltage 2026
+DESCRIPTION:Am 22. und 23. August 2026 werden ganz unterschiedliche Rollens
+ pielrunden angeboten.
+LOCATION:Würzenbachsaal\, St. Johannes\, Luzern
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+END:VEVENT
+BEGIN:VEVENT
+UID:eeec811e-e98c-4cf8-94dd-d8442000c060
+DTSTAMP:20251230T194520Z
+SUMMARY:Spieltreffen
+DESCRIPTION:Spiel mit uns Brettspiele – Anmeldung nicht notwendig. Eventbei
+ trag: CHF 5 für Nicht-Mitglieder.
+LOCATION:Würzenbachsaal\, St. Johannes\, Luzern
+DTSTART;VALUE=DATE-TIME:20260103T130000Z
+DTEND;VALUE=DATE-TIME:20260103T225900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:838b2f18-dfc1-4a6e-a3ed-61d8621b765f
+DTSTAMP:20251230T194520Z
+SUMMARY:Spieltreffen
+DESCRIPTION:Spiel mit uns Brettspiele – Anmeldung nicht notwendig. Eventbei
+ trag: CHF 5 für Nicht-Mitglieder.
+LOCATION:Unterkirche\, St. Johannes\, Luzern
+DTSTART;VALUE=DATE-TIME:20260117T130000Z
+DTEND;VALUE=DATE-TIME:20260117T225900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:64fc915f-290b-4b72-afe3-9793b4aef63c
+DTSTAMP:20251230T194520Z
+SUMMARY:Spieltreffen
+DESCRIPTION:Spiel mit uns Brettspiele – Anmeldung nicht notwendig. Eventbei
+ trag: CHF 5 für Nicht-Mitglieder.
+LOCATION:St. Johannes\, Luzern
+DTSTART;VALUE=DATE-TIME:20260207T130000Z
+DTEND;VALUE=DATE-TIME:20260207T225900Z
+END:VEVENT
+BEGIN:VEVENT
+UID:74c4e515-40f5-4038-aa32-5d47bf221b0e
+DTSTAMP:20251230T194520Z
+SUMMARY:Spieltreffen am Sonntag
+DESCRIPTION:Spiel mit uns Brettspiele – Anmeldung nicht notwendig. Eventbei
+ trag: CHF 5 für Nicht-Mitglieder.
+LOCATION:St. Johannes\, Luzern
+DTSTART;VALUE=DATE-TIME:20260222T130000Z
+DTEND;VALUE=DATE-TIME:20260222T225900Z
+END:VEVENT
+END:VCALENDAR
