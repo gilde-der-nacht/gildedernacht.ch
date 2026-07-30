@@ -218,7 +218,7 @@ DTEND;VALUE=DATE-TIME:20260821T190000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0ef493e8-e7c2-4eda-b897-623e28c4421a
-DTSTAMP:20251230T112331Z
+DTSTAMP:20260729T125206Z
 SUMMARY:Luzerner Rollenspieltage 2026
 DESCRIPTION:Am 22. und 23. August 2026 werden ganz unterschiedliche Rollens
  pielrunden angeboten.
@@ -357,5 +357,15 @@ DESCRIPTION:Am Samstag\, 13. und Sonntag\, 14. März 2026 verwandeln wir den
 LOCATION:Würzenbachsaal\, St. Johannes\, Luzern
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddfd144-c83d-45c7-a798-8510ea7630e7
+DTSTAMP:20260729T125206Z
+SUMMARY:Luzerner Rollenspieltage 2027
+DESCRIPTION:Am 21. und 22. August 2027 werden ganz unterschiedliche Rollens
+ pielrunden angeboten.
+LOCATION:Würzenbachsaal\, St. Johannes\, Luzern
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270823
 END:VEVENT
 END:VCALENDAR
