@@ -278,8 +278,8 @@ DTEND;VALUE=DATE-TIME:20261011T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:71680f4d-0641-47c1-8e5f-cb73dbe06ddb
-DTSTAMP:20260327T093753Z
-SUMMARY:Spielweekend
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2026
 DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
  hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
  . Anmeldung notwendig.
@@ -387,5 +387,77 @@ DESCRIPTION:Am 21. und 22. August 2027 werden ganz unterschiedliche Rollens
 LOCATION:Würzenbachsaal\, St. Johannes\, Luzern
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270823
+END:VEVENT
+BEGIN:VEVENT
+UID:c99d339b-1b80-4c97-8176-bc97cc420b56
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2027 (Prio #2)
+DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
+ hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
+ . Anmeldung notwendig.\n\nPrio #1: 29. - 31. Oktober 2027 (Definitives Datu
+ m wird ca. 1 Jahr im Voraus kommuniziert.)
+LOCATION:Gruppenhaus
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271025
+END:VEVENT
+BEGIN:VEVENT
+UID:497575d2-f951-4a34-bc07-87909b694562
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2027 (Prio #1)
+DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
+ hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
+ . Anmeldung notwendig.\n\nPrio #2: 22. - 24. Oktober 2027 (Definitives Datu
+ m wird ca. 1 Jahr im Voraus kommuniziert.)
+LOCATION:Gruppenhaus
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271101
+END:VEVENT
+BEGIN:VEVENT
+UID:91e8b2e6-282a-4de3-a793-19d83198f00c
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2028 (Prio #2)
+DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
+ hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
+ . Anmeldung notwendig.\n\nPrio #1: 27. - 29. Oktober 2028 (Definitives Datu
+ m wird ca. 1 Jahr im Voraus kommuniziert.)
+LOCATION:Gruppenhaus
+DTSTART;VALUE=DATE:20281020
+DTEND;VALUE=DATE:20281023
+END:VEVENT
+BEGIN:VEVENT
+UID:8e56efa8-1bdd-4c5d-8667-7bd33208f21a
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2028 (Prio #1)
+DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
+ hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
+ . Anmeldung notwendig.\n\nPrio #2: 20. - 22. Oktober 2028 (Definitives Datu
+ m wird ca. 1 Jahr im Voraus kommuniziert.)
+LOCATION:Gruppenhaus
+DTSTART;VALUE=DATE:20281027
+DTEND;VALUE=DATE:20281030
+END:VEVENT
+BEGIN:VEVENT
+UID:4413ee95-69ad-4770-a6a4-429e2e3e2919
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2029 (Prio #2)
+DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
+ hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
+ . Anmeldung notwendig.\n\nPrio #1: 26. - 28. Oktober 2029 (Definitives Datu
+ m wird ca. 1 Jahr im Voraus kommuniziert.)
+LOCATION:Gruppenhaus
+DTSTART;VALUE=DATE:20291019
+DTEND;VALUE=DATE:20291022
+END:VEVENT
+BEGIN:VEVENT
+UID:358d20f1-52f1-4ece-9008-619944f125c2
+DTSTAMP:20260830T115808Z
+SUMMARY:Spielweekend 2029 (Prio #1)
+DESCRIPTION:Wir organisieren ein gemütliches\, dreitägiges Spielweekend. Me
+ hr Infos findest du in unserem Chat (Discord) oder sende uns eine Nachricht
+ . Anmeldung notwendig.\n\nPrio #2: 19. - 21. Oktober 2029 (Definitives Datu
+ m wird ca. 1 Jahr im Voraus kommuniziert.)
+LOCATION:Gruppenhaus
+DTSTART;VALUE=DATE:20291026
+DTEND;VALUE=DATE:20291029
 END:VEVENT
 END:VCALENDAR
